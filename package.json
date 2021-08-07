@@ -1,0 +1,22 @@
+{
+  "name": "tdd-fizzbuzz-code-kata",
+  "version": "1.0.0",
+  "description": "Test Driven Development Coding Kata",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariukuto/TDD-fizzbuzz-code-kata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ariukuto/TDD-fizzbuzz-code-kata/issues"
+  },
+  "homepage": "https://github.com/Ariukuto/TDD-fizzbuzz-code-kata#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
