@@ -27,6 +27,12 @@ describe("test function fizzbuss", () => {
         expect(result).toBe('Buzz');
     });
 
+    it("should return 'FizzBuzz' for 15", () => {
+        let input = 15;
+        let result = fizzbuzz(input); 
+        expect(result).toBe('FizzBuzz');
+    });
+
 
 });
 
