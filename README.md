@@ -1,7 +1,7 @@
 # TDD fizzbuzz Code Kata
 Test Driven Development Coding Kata
 
-## task
+## Task
 Write a program that prints one line for each number from 1 to 100
 For multiples of three print Fizz instead of the number
 For the multiples of five print Buzz instead of the number
