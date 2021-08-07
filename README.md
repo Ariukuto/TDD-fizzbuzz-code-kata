@@ -17,3 +17,9 @@ Test Driven Development Coding Kata
 - The first test must fail (red phase)
 - then find the easiest solution
 - then refactor the logic so that the test is successful (green phase)
+
+## TDD the tree As
+- Arrage = in german "vorbereiten"
+- Act = in german "ausführen"
+- Assert = in german "überprüfen"
+    
