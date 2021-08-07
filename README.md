@@ -22,4 +22,14 @@ Test Driven Development Coding Kata
 - Arrage = in german "vorbereiten"
 - Act = in german "ausführen"
 - Assert = in german "überprüfen"
+
+## Functional programming
+**Algebra Datentypen**  
+- Neutrales Element beim addieren = 0 => Semigruppe
+- Neutrales Element hängt von der Operation ab die zwei Werte kombiniert
+- concatination 
+ 
+ **Higher Order functions**  
+- parameter is a function
+- return a function
     
