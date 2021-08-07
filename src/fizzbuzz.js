@@ -1,21 +1,24 @@
 // solution Test 2
 function fizzbuzz(input) {
 
-    if(input % 3 === 0 && input % 5 === 0) {
-        return "FizzBuzz";
+    const isThree = check(3, "Fizz");
+    const isFive = check(5, "Buzz");
+    const result = isThree(input) + isFive(input);
+
+    if(result === "") {
+        return input.toString();
     }
 
-    if(input % 3 === 0) {
-        return 'Fizz';
+    return result;
+}
+
+function check(checknum, label) {
+    return (input) => {
+        if(input % checknum === 0) {
+            return label;
+        }
+        return "";
     }
-
-    if(input % 5 === 0) {
-        return 'Buzz';
-    }
-
-
-
-    return input.toString();
 }
 
 module.exports = {
