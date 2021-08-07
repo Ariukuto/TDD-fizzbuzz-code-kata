@@ -18,7 +18,7 @@ Test Driven Development Coding Kata
 - then find the easiest solution
 - then refactor the logic so that the test is successful (green phase)
 
-## TDD the tree As
+## TDD the three As
 - Arrage = in german "vorbereiten"
 - Act = in german "ausführen"
 - Assert = in german "überprüfen"
